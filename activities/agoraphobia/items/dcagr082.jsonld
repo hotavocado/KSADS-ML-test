@@ -1,0 +1,28 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcagr082",
+    "formName": "agoraphobia",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": {
+        "en": "Specify (Medication 1)"
+    },
+    "schema:description": {
+        "en": "MEDICATION"
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "customAlignment": "",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

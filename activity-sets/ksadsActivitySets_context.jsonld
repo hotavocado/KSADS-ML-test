@@ -1,0 +1,9 @@
+{
+"@context": {
+  "activity_path": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/no_conditional/activities/",
+  "agoraphobia": {
+    "@id": "activity_path:agoraphobia/agoraphobia_schema.jsonld",
+    "@type": "@id"
+  }
+}
+}

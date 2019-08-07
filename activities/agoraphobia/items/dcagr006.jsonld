@@ -1,0 +1,25 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcagr006",
+    "formName": "agoraphobia",
+    "ui": {
+        "inputType": "notes"
+    },
+    "question": {
+        "en": "Describe"
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "customAlignment": "LH",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}
