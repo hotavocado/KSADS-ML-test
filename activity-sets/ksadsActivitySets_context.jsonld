@@ -1,6 +1,6 @@
 {
 "@context": {
-  "activity_path": "https://raw.githubusercontent.com/hotavocado/KSADS-ML-test/activities/",
+  "activity_path": "https://raw.githubusercontent.com/hotavocado/KSADS-ML-test/master/activities/",
   "agoraphobia": {
     "@id": "activity_path:agoraphobia/agoraphobia_schema.jsonld",
     "@type": "@id"
