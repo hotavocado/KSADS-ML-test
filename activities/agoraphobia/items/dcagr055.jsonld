@@ -5,8 +5,10 @@
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcagr055",
     "formName": "agoraphobia",
+    "preamble": "NA",
     "ui": {
-        "inputType": "dropdown"
+        "inputType": "multiple",
+        "hidden": true
     },
     "question": {
         "en": "Age"
@@ -140,17 +142,18 @@
                 }
             }
         ],
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
     },
     "schema:description": {
         "en": "AGE"
     },
     "textValidationTypeOrShowSliderNumber": "autocomplete",
+    "@id": "NA",
     "customAlignment": "RH",
-    "questionNumber (surveysOnly)": "",
-    "matrixGroupName": "",
-    "matrixRanking?": "",
-    "fieldAnnotation": ""
+    "questionNumber (surveysOnly)": "NA",
+    "matrixGroupName": "NA",
+    "matrixRanking?": "NA",
+    "fieldAnnotation": "NA"
 }

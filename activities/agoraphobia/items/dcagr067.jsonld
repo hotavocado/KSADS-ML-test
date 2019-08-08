@@ -5,24 +5,33 @@
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcagr067",
     "formName": "agoraphobia",
+    "preamble": "NA",
     "ui": {
-        "inputType": "text"
+        "inputType": "text",
+        "hidden": true
     },
     "question": {
         "en": "Specify (Code 2)"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": null,
+                "schema:name": {}
+            }
+        ],
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
     },
     "schema:description": {
         "en": "CODE RESPONSE"
     },
     "textValidationTypeOrShowSliderNumber": "number",
-    "responseOptions": {
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    },
-    "customAlignment": "",
-    "questionNumber (surveysOnly)": "",
-    "matrixGroupName": "",
-    "matrixRanking?": "",
-    "fieldAnnotation": ""
+    "@id": "NA",
+    "customAlignment": "NA",
+    "questionNumber (surveysOnly)": "NA",
+    "matrixGroupName": "NA",
+    "matrixRanking?": "NA",
+    "fieldAnnotation": "NA"
 }

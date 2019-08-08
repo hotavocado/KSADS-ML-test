@@ -5,21 +5,33 @@
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cagr2",
     "formName": "agoraphobia",
+    "preamble": "NA",
     "ui": {
-        "inputType": "descriptive"
+        "inputType": "text",
+        "hidden": true
     },
     "question": {
         "en": "INTERVIEWER:  Be sure to distinguish between Agoraphobia, Specific Phobias and Separation Anxiety here (e.g. if the child is fearful because he/she is away from his/her parent this suggests Separation Anxiety, not Agoraphobia). Key criterion for Agoraphobia are listed below under Nature of Fear."
     },
-    "textValidationTypeOrShowSliderNumber": "",
     "responseOptions": {
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
+        "choices": [
+            {
+                "schema:value": null,
+                "schema:name": {}
+            }
+        ],
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
     },
-    "customAlignment": "",
-    "questionNumber (surveysOnly)": "",
-    "matrixGroupName": "",
-    "matrixRanking?": "",
-    "fieldAnnotation": ""
+    "schema:description": {
+        "en": "NA"
+    },
+    "textValidationTypeOrShowSliderNumber": "NA",
+    "@id": "NA",
+    "customAlignment": "NA",
+    "questionNumber (surveysOnly)": "NA",
+    "matrixGroupName": "NA",
+    "matrixRanking?": "NA",
+    "fieldAnnotation": "NA"
 }

@@ -5,8 +5,10 @@
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcagr052",
     "formName": "agoraphobia",
+    "preamble": "NA",
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "hidden": true
     },
     "question": {
         "en": "INTERVIEWER: Define panic attacks, as necessary."
@@ -38,14 +40,18 @@
                 }
             }
         ],
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
     },
-    "textValidationTypeOrShowSliderNumber": "",
+    "schema:description": {
+        "en": "NA"
+    },
+    "textValidationTypeOrShowSliderNumber": "NA",
+    "@id": "NA",
     "customAlignment": "RH",
-    "questionNumber (surveysOnly)": "",
+    "questionNumber (surveysOnly)": "NA",
     "matrixGroupName": "dcagr052",
-    "matrixRanking?": "",
-    "fieldAnnotation": ""
+    "matrixRanking?": "NA",
+    "fieldAnnotation": "NA"
 }

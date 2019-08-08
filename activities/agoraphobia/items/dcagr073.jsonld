@@ -5,8 +5,10 @@
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcagr073",
     "formName": "agoraphobia",
+    "preamble": "NA",
     "ui": {
-        "inputType": "dropdown"
+        "inputType": "multiple",
+        "hidden": true
     },
     "question": {
         "en": "How old were you the first time you got help?"
@@ -140,17 +142,18 @@
                 }
             }
         ],
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
     },
     "schema:description": {
         "en": "AGE"
     },
     "textValidationTypeOrShowSliderNumber": "autocomplete",
-    "customAlignment": "",
-    "questionNumber (surveysOnly)": "",
-    "matrixGroupName": "",
-    "matrixRanking?": "",
-    "fieldAnnotation": ""
+    "@id": "NA",
+    "customAlignment": "NA",
+    "questionNumber (surveysOnly)": "NA",
+    "matrixGroupName": "NA",
+    "matrixRanking?": "NA",
+    "fieldAnnotation": "NA"
 }
