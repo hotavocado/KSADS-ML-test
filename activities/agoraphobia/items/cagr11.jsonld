@@ -5,21 +5,33 @@
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cagr11",
     "formName": "agoraphobia",
+    "preamble": "NA",
     "ui": {
-        "inputType": "descriptive"
+        "inputType": "text",
+        "hidden": true
     },
     "question": {
         "en": "IMPAIRMENT"
     },
-    "textValidationTypeOrShowSliderNumber": "",
     "responseOptions": {
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
+        "choices": [
+            {
+                "schema:value": null,
+                "schema:name": {}
+            }
+        ],
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
     },
-    "customAlignment": "",
-    "questionNumber (surveysOnly)": "",
-    "matrixGroupName": "",
-    "matrixRanking?": "",
-    "fieldAnnotation": ""
+    "schema:description": {
+        "en": "NA"
+    },
+    "textValidationTypeOrShowSliderNumber": "NA",
+    "@id": "NA",
+    "customAlignment": "NA",
+    "questionNumber (surveysOnly)": "NA",
+    "matrixGroupName": "NA",
+    "matrixRanking?": "NA",
+    "fieldAnnotation": "NA"
 }

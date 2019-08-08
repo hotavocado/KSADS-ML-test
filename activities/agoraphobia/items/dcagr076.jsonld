@@ -5,21 +5,33 @@
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcagr076",
     "formName": "agoraphobia",
+    "preamble": "NA",
     "ui": {
-        "inputType": "notes"
+        "inputType": "text",
+        "hidden": true
     },
     "question": {
         "en": "What did the professional(s) (doctors) say that you had  (diagnoses given)? List:"
     },
-    "textValidationTypeOrShowSliderNumber": "",
     "responseOptions": {
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
+        "choices": [
+            {
+                "schema:value": null,
+                "schema:name": {}
+            }
+        ],
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
     },
+    "schema:description": {
+        "en": "NA"
+    },
+    "textValidationTypeOrShowSliderNumber": "NA",
+    "@id": "NA",
     "customAlignment": "LH",
-    "questionNumber (surveysOnly)": "",
-    "matrixGroupName": "",
-    "matrixRanking?": "",
-    "fieldAnnotation": ""
+    "questionNumber (surveysOnly)": "NA",
+    "matrixGroupName": "NA",
+    "matrixRanking?": "NA",
+    "fieldAnnotation": "NA"
 }

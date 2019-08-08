@@ -5,8 +5,10 @@
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcagr024",
     "formName": "agoraphobia",
+    "preamble": "NA",
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "hidden": true
     },
     "question": {
         "en": "Other?"
@@ -44,14 +46,18 @@
                 }
             }
         ],
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
     },
-    "textValidationTypeOrShowSliderNumber": "",
-    "customAlignment": "",
-    "questionNumber (surveysOnly)": "",
+    "schema:description": {
+        "en": "NA"
+    },
+    "textValidationTypeOrShowSliderNumber": "NA",
+    "@id": "NA",
+    "customAlignment": "NA",
+    "questionNumber (surveysOnly)": "NA",
     "matrixGroupName": "dcagr020",
-    "matrixRanking?": "",
-    "fieldAnnotation": ""
+    "matrixRanking?": "NA",
+    "fieldAnnotation": "NA"
 }

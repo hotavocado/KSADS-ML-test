@@ -5,8 +5,10 @@
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcagr013",
     "formName": "agoraphobia",
+    "preamble": "NA",
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "hidden": true
     },
     "question": {
         "en": "11. Being in classrooms or cafeteria at school?"
@@ -32,14 +34,18 @@
                 }
             }
         ],
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
     },
-    "textValidationTypeOrShowSliderNumber": "",
-    "customAlignment": "",
-    "questionNumber (surveysOnly)": "",
+    "schema:description": {
+        "en": "NA"
+    },
+    "textValidationTypeOrShowSliderNumber": "NA",
+    "@id": "NA",
+    "customAlignment": "NA",
+    "questionNumber (surveysOnly)": "NA",
     "matrixGroupName": "dcagr010",
-    "matrixRanking?": "",
-    "fieldAnnotation": ""
+    "matrixRanking?": "NA",
+    "fieldAnnotation": "NA"
 }

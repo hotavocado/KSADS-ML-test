@@ -5,24 +5,33 @@
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcagr066",
     "formName": "agoraphobia",
+    "preamble": "NA",
     "ui": {
-        "inputType": "text"
+        "inputType": "text",
+        "hidden": true
     },
     "question": {
         "en": "Specify (Professional/Treatment 2)"
     },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": null,
+                "schema:name": {}
+            }
+        ],
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
     "schema:description": {
         "en": "PROFESSIONAL/TREATMENT"
     },
-    "textValidationTypeOrShowSliderNumber": "",
-    "responseOptions": {
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    },
-    "customAlignment": "",
-    "questionNumber (surveysOnly)": "",
-    "matrixGroupName": "",
-    "matrixRanking?": "",
-    "fieldAnnotation": ""
+    "textValidationTypeOrShowSliderNumber": "NA",
+    "@id": "NA",
+    "customAlignment": "NA",
+    "questionNumber (surveysOnly)": "NA",
+    "matrixGroupName": "NA",
+    "matrixRanking?": "NA",
+    "fieldAnnotation": "NA"
 }
