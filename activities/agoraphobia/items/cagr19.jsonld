@@ -4,11 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cagr19",
-    "formName": "agoraphobia",
     "preamble": "NA",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "What was the longest period of time that (fear) did not bother you?"

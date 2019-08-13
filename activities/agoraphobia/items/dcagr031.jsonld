@@ -4,11 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcagr031",
-    "formName": "agoraphobia",
     "preamble": "NA",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Were you much more scared by this than other people your age?"

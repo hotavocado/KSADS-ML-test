@@ -1,0 +1,55 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcmdd076",
+    "preamble": "NA",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Did these (list endorsed delusions) start before, after or at the same time that you started feeling (sad, grouchy, like nothing was fun)?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": {
+                    "en": "Before "
+                }
+            },
+            {
+                "schema:value": 2,
+                "schema:name": {
+                    "en": "During "
+                }
+            },
+            {
+                "schema:value": 3,
+                "schema:name": {
+                    "en": "After "
+                }
+            },
+            {
+                "schema:value": 9,
+                "schema:name": {
+                    "en": "Don't know"
+                }
+            }
+        ],
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "textValidationTypeOrShowSliderNumber": "NA",
+    "@id": "NA",
+    "customAlignment": "LH",
+    "questionNumber (surveysOnly)": "NA",
+    "matrixGroupName": "NA",
+    "matrixRanking?": "NA",
+    "fieldAnnotation": "NA"
+}

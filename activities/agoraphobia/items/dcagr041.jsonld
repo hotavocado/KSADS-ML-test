@@ -4,11 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcagr041",
-    "formName": "agoraphobia",
     "preamble": "NA",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did you start to get nervous as soon as you knew you had to face (fear)?"

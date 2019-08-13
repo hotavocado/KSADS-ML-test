@@ -4,11 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cagr8",
-    "formName": "agoraphobia",
     "preamble": "NA",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "INTERVIEWER: Remind child how to use scale, if necessary."

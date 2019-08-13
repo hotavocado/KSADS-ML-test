@@ -4,11 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcagr080",
-    "formName": "agoraphobia",
     "preamble": "NA",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "Specify (Other)"

@@ -4,11 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcagr029",
-    "formName": "agoraphobia",
     "preamble": "NA",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "How often did you feel nervous or afraid (insert situation)?"

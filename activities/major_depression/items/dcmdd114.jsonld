@@ -1,0 +1,37 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcmdd114",
+    "preamble": "NA",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "N/A"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 7,
+                "schema:name": {
+                    "en": "N/A"
+                }
+            }
+        ],
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "textValidationTypeOrShowSliderNumber": "NA",
+    "@id": "NA",
+    "customAlignment": "NA",
+    "questionNumber (surveysOnly)": "NA",
+    "matrixGroupName": "NA",
+    "matrixRanking?": "NA",
+    "fieldAnnotation": "NA"
+}
