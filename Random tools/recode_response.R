@@ -10,5 +10,12 @@ table(datadic$`Field Type`)
 datadic <- datadic %>% mutate(`Field Type` = recode(`Field Type`,
                                                      calc = 'text',
                                                      checkbox = 'multiple',
-                                                     
-                                                     )
+                                                     descriptive = 'text',
+                                                     dropdown = 'multiple',
+                                                     notes = "text"
+                                                     ))
+
+table(datadic$`Field Type`)
+
+
+write_csv(datadic, "KSADS_DataDictionary_test.csv")
