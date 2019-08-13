@@ -4,11 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cagr5",
-    "formName": "agoraphobia",
     "preamble": "NA",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "I will now ask you about (your fear listed): [dcagr027]. When you were most afraid of (your  fear): [dcagr027]: "

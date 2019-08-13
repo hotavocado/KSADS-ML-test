@@ -4,11 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcagr005",
-    "formName": "agoraphobia",
     "preamble": "NA",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "5. Being in the house alone? (For younger children: Being alone in a room or in a different part of the house from your parents.)"

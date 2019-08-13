@@ -4,11 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcagr063",
-    "formName": "agoraphobia",
     "preamble": "NA",
     "ui": {
-        "inputType": "radio",
-        "hidden": true
+        "inputType": "radio"
     },
     "question": {
         "en": "Did you ever go to see a doctor, nurse, counselor, social worker, psychologist, minister/priest or other professional to get help for (list symptoms)"

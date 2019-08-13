@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcmdd099",
+    "preamble": "NA",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": {
+        "en": "Year"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": null,
+                "schema:name": {}
+            }
+        ],
+        "minValue": "1900",
+        "maxValue": "9999",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "YEAR"
+    },
+    "textValidationTypeOrShowSliderNumber": "number",
+    "@id": "NA",
+    "customAlignment": "RH",
+    "questionNumber (surveysOnly)": "NA",
+    "matrixGroupName": "NA",
+    "matrixRanking?": "NA",
+    "fieldAnnotation": "NA"
+}

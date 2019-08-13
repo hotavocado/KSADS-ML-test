@@ -1,0 +1,55 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcmdd070",
+    "preamble": "NA",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "On the days you had these things, how much of the day did you have them?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": {
+                    "en": "All of the day "
+                }
+            },
+            {
+                "schema:value": 2,
+                "schema:name": {
+                    "en": "Most of the day "
+                }
+            },
+            {
+                "schema:value": 3,
+                "schema:name": {
+                    "en": "Half of the day "
+                }
+            },
+            {
+                "schema:value": 4,
+                "schema:name": {
+                    "en": "Only a little part of the day"
+                }
+            }
+        ],
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "textValidationTypeOrShowSliderNumber": "NA",
+    "@id": "NA",
+    "customAlignment": "LH",
+    "questionNumber (surveysOnly)": "NA",
+    "matrixGroupName": "NA",
+    "matrixRanking?": "NA",
+    "fieldAnnotation": "NA"
+}

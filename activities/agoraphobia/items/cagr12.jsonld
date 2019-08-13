@@ -4,11 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cagr12",
-    "formName": "agoraphobia",
     "preamble": "NA",
     "ui": {
-        "inputType": "text",
-        "hidden": true
+        "inputType": "text"
     },
     "question": {
         "en": "How many days of school did you miss? (lifetime)"

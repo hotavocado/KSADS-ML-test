@@ -4,6 +4,11 @@
   "agoraphobia": {
     "@id": "activity_path:agoraphobia/agoraphobia_schema.jsonld",
     "@type": "@id"
+  },
+
+  "major_depression": {
+    "@id": "activity_path:major_depression/major_depression_schema.jsonld",
+    "@type": "@id"
   }
 }
 }

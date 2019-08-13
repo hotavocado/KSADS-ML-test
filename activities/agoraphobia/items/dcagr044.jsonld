@@ -4,11 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcagr044",
-    "formName": "agoraphobia",
     "preamble": "NA",
     "ui": {
-        "inputType": "multiple",
-        "hidden": true
+        "inputType": "multiple"
     },
     "question": {
         "en": "How much did having this fear upset or bother you?"
