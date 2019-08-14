@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "major_depression": "https://raw.githubusercontent.com/hotavocado/KSADS-ML-test/test1/activities/major_depression/items/",
+        "major_depression": "https://raw.githubusercontent.com/hotavocado/KSADS-ML-test/test2/activities/major_depression/items/",
         "cmdd0": {
             "@id": "major_depression:cmdd0.jsonld",
             "@type": "@id"

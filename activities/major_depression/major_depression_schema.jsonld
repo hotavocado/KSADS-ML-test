@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/hotavocado/KSADS-ML-test/test1/activities/major_depression/major_depression_context.jsonld"
+        "https://raw.githubusercontent.com/hotavocado/KSADS-ML-test/test2/activities/major_depression/major_depression_context.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Activity.jsonld",
     "@id": "major_depression_schema",
